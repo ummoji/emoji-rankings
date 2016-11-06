@@ -7,10 +7,7 @@
     "build": "curl -s http://emojitracker.com/api/rankings > rankings.json",
     "test": "node test.js | tap-spec"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/zeke/emoji-rankings.git"
-  },
+  "repository": "https://github.com/ummoji/emoji-rankings",
   "keywords": [
     "emoji",
     "data",
